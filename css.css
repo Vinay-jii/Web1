@@ -1,0 +1,72 @@
+h1 {
+    color: aliceblue; 
+    
+}
+
+    #flot {
+        width: 200px;
+        float: right;
+    }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: left;
+            padding: 14px 16px ;
+            background-image: url("trees-9424194_1280.jpg")
+        }
+
+        nav {
+            background-color: #f0f0f0;
+            padding: 2px 2px ;
+            text-align: left;
+            background-image: url("")
+            
+        }
+
+        nav ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        nav ul li {
+            display: inline-block;
+            margin: 0 1rem;
+        }
+
+        nav a {
+            text-decoration: none;
+            color: #333;
+        }
+
+        main {
+            padding: 2rem;
+        }
+
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1rem 0;
+            position:;
+            bottom: 0;
+            width: 100%;
+            background-image: url("mountain-9380557_1920.jpg")
+        }
+    img {
+    max-width: 100%; 
+        height: auto; 
+    }
+.image-container-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr); /* Creates 3 equal columns */
+  gap: 10px; /* Adds spacing between items */
+}
+
+.image-container-grid img {
+  width: 100%;
+  height: auto;
+}
+
+
+
